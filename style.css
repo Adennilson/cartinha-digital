@@ -14,7 +14,7 @@ body {
     padding-bottom: 40px;
     border-radius: 20px;
     background-color: #171717;
-    width: 100%;
+    width: 98%;
     height: auto;
     display: flex;
     flex-direction: column;
@@ -26,8 +26,8 @@ body {
     padding-top: 40px;
     margin-bottom: 20px;
     display: flex;
-    width: 350px; 
-    height: 500px;
+    width: 500px; 
+    height: 700px;
     overflow: hidden; /* Impede que as imagens ultrapassem o contêiner */
 }
 
