@@ -13,7 +13,7 @@ window.onload = function() {
   };
 
 
-const dataInicio = new Date('2024-07-04');
+const dataInicio = new Date('2024-06-30');
 
 function atualizarCronometro() {
   const agora = new Date();
